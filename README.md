@@ -52,7 +52,11 @@ The DLL discriminator output remains centered around zero, demonstrating proper 
 
 ## Performance Evaluation
 
-Detailed performance analysis, sensitivity studies, and numerical evaluation results are available in the accompanying [GPS_Code_Tracking_Report.pdf](GPS_Code_Tracking_Report.pdf) document.
+The DLL discriminator was evaluated under multiple SNR conditions and different integration times (PIT). Additional tests were also performed by introducing carrier phase and frequency errors to analyze their impact on code tracking performance.
+
+The numerical results show that the DLL output error standard deviation remains approximately within the 83–85 m range across the tested conditions. This behavior is consistent with the normalized non-coherent DLL discriminator structure.
+
+Detailed numerical results and sensitivity analysis are provided in the accompanying [GPS_Code_Tracking_Report.pdf](GPS_Code_Tracking_Report.pdf) document.
 
 ---
 
@@ -61,7 +65,7 @@ Detailed performance analysis, sensitivity studies, and numerical evaluation res
 - Main.slx
 - load_params.m
 - generateCAcodes.m
-- Report.pdf
+- GPS_Code_Tracking_Report.pdf
 
 ---
 

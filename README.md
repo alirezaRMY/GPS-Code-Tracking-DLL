@@ -38,7 +38,7 @@ The MATLAB code, Simulink model implementation, debugging process, and performan
 
 ### Prompt Correlation Output
 
-![Prompt Correlation](figures/prompt_output.png)
+![Prompt_output](figures/prompt_output.png)
 
 The prompt correlator output remains stable throughout the simulation and indicates successful code alignment with the incoming GPS signal.
 

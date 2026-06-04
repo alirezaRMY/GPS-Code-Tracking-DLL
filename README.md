@@ -20,6 +20,18 @@ The implemented receiver architecture includes:
 
 ---
 
+## Main Contributions
+
+- Implementation of a GPS L1 C/A code tracking loop using a non-coherent DLL discriminator.
+- Development of a complete MATLAB/Simulink receiver model.
+- Sensitivity analysis under multiple SNR levels and integration times.
+- Evaluation under carrier phase and frequency errors.
+- Performance assessment using discriminator output statistics.
+
+
+
+---
+
 ## Academic Context
 
 This project was developed during M.Sc. studies in Communication Systems and Networks at Tampere University.

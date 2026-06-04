@@ -52,7 +52,7 @@ The DLL discriminator output remains centered around zero, demonstrating proper 
 
 ## Performance Evaluation
 
-Detailed performance analysis, sensitivity studies, and numerical evaluation results are available in the accompanying GPS_Code_Tracking_Report.pdf document.
+Detailed performance analysis, sensitivity studies, and numerical evaluation results are available in the accompanying [GPS_Code_Tracking_Report.pdf](GPS_Code_Tracking_Report.pdf) document.
 
 ---
 

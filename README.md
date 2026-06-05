@@ -91,10 +91,10 @@ Detailed numerical results and sensitivity analysis are provided in the accompan
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-**Alireza Ramyad**
+**Alireza Ramyad**  
+MSc Student in Communication Systems and Networks — Tampere University
 
-M.Sc. Student in Communication Systems and Networks
-
-Tampere University
+[![GitHub](https://img.shields.io/badge/GitHub-alirezaRMY-181717?logo=github)](https://github.com/alirezaRMY)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza%20Ramyad-0077B5?logo=linkedin)](https://www.linkedin.com/in/alireza-ramyad)
